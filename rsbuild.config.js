@@ -5,7 +5,7 @@ import { pluginReact } from '@rsbuild/plugin-react';
 // Docs: https://rsbuild.rs/config/
 export default defineConfig({
   html: {
-    title: "Stellaris Portrait Generator",
+    title: "Stellaris Portrait Creator",
     viewport: 'width=device-width, initial-scale=1.0',
     meta: {
       description: "A tool to create static portraits for Stellaris"
